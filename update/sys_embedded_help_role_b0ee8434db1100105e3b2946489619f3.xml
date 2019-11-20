@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_426914_git_video.some_table_user" name="x_426914_git_video.some_table_user">30eecc30db1100105e3b29464896191c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-20 23:17:26</sys_created_on>
+        <sys_id>b0ee8434db1100105e3b2946489619f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>30eecc30db1100105e3b29464896191c</sys_name>
+        <sys_package display_value="Git Video" source="x_426914_git_video">90629c20db1100105e3b29464896192d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Git Video">90629c20db1100105e3b29464896192d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b0ee8434db1100105e3b2946489619f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-20 23:17:26</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
